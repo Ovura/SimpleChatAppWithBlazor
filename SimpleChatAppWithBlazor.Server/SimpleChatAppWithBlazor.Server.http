@@ -1,0 +1,6 @@
+@SimpleChatAppWithBlazor.Server_HostAddress = http://localhost:5241
+
+GET {{SimpleChatAppWithBlazor.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
